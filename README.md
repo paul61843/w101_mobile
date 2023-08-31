@@ -41,8 +41,9 @@ https://reactnative.dev/docs/environment-setup
 4. app 分享熱點給電腦 
 備註: 手機需跟電腦有相同網路，才能建置app
 
-5. app 掃描 啟動成功後的 QrCode
-
+5. app 掃描 QrCode，成功後會出現 building 的文字
+    ![](./readme_img/buildsuccess.png)
+## 結尾
 如果還有問題的話，可以參考這部影片
 18:18 ~ 19:20
-https://www.youtube.com/watch?v=mJ3bGvy0WAY
+https://youtu.be/mJ3bGvy0WAY?t=1096
